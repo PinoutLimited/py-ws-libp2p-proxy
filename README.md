@@ -1,6 +1,6 @@
 # Libp2p-Proxy API
 
-API for the [proxy](https://github.com/PinoutLTD/libp2p-ws-proxy)
+API for the [proxy](https://github.com/PinoutLimited/libp2p-ws-proxy)
 
 ## Installation
 
